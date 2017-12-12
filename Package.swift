@@ -15,7 +15,7 @@ let package = Package(
     dependencies: [
         Package.Dependency.package(
             url: "https://github.com/RedMadRobot/synopsis",
-            from: "1.1.0"
+            from: "1.1.1"
         )
     ],
     targets: [
