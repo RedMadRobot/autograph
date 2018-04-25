@@ -1,4 +1,5 @@
-# Autograph
+
+![](main-illustration.png)
 ## Description
 
 **Autograph** provides instruments for building source code generation utilities (command line applications) on top of the
